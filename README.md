@@ -83,3 +83,4 @@ i.am.dani celebrates the 40th birthday of MSX. Inspired by DANI, a chatbot from 
 - Jennifer Kearns
 - Altahier Saleh
 - Tommy Burke
+- Éadaoin Ó Snodaigh
